@@ -7,7 +7,7 @@ Data Scientist / Mlops
 I'm Aman (Atomcode) and that's my profile name. I used to make websites for fun, but after a while, I began learning about numbers and started wondering how developers make sense of them. This sparked my interest in the field
 
 * 🌍  I'm based in India
-* 🖥️  See my portfolio at [My Portfolio](https://atomcode01.github.io/Atomcode/)
+* 🖥️  See my portfolio at [My Portfolio](https://atomcode.vercel.app/)
 * ✉️  You can contact me at [atomcode2002@gmail.com](mailto:atomcode2002@gmail.com)
 * 🧠  I'm learning Kedro right now
 * 🤝  I'm open to collaborating on UI design or making Ml models, deploy or monitiring
