@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Data Scientist / Mlops
 ----------------------
 
-I'm Aman (Atomcode) and that's my profile name. I used to make websites for fun, but after a while, I began learning about numbers and started wondering how developers make sense of them. This sparked my interest in the field
+I'm Aman (Atomcode) and Atomcode01 that's my profile name. I used to make websites for fun, but after a while, I began learning about numbers and started wondering how developers make sense of them. This sparked my interest in the field
 
 * 🌍  I'm based in India
 * 🖥️  See my portfolio at [My Portfolio](https://atomcode.vercel.app/)
